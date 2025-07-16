@@ -1,3 +1,4 @@
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=daniyarka03.daniyarka03&style=flat&color=blue)
 ## Hi there 👋 I'm Daniyar
 
 I'm a junior fullstack developer passionate about building real-world applications using **Laravel** and **React**.  
